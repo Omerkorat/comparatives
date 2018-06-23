@@ -1,6 +1,6 @@
 # Load data
-cwd = NULL # Set this to the current directory
-nums.path = file.path(cwd,'data.csv')
+data.dir = NULL # Set this to the directory where data.csv is located
+nums.path = file.path(data.dir,'data.csv')
 nums.data = read.csv(nums.path)
 
 
