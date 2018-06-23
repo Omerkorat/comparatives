@@ -12,7 +12,7 @@ Column descriptions are as follows:
 
 **is_frac** 1 iff the expression is a fraction (e.g. "1/2", "one half"), 0 otherwise
 
-**nat_hyp** 1 iff the expression satisfies the natural roundness hypothesis described in the paper
+**nat_hyp** 1 iff the expression satisfies the natural roundness hypothesis described in the paper (not used in the code)
 
 **neg** 1 iff the expression is negated (e.g. "no more than 3"), 0 otherwise
 
