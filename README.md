@@ -1,4 +1,4 @@
-This repo contains the code for the paper <link-to-the-paper>. The code contains documentation and references to the appropriate parts of the paper. Data was collected from the Corpus of Contemporary American English (Davies, 2008).
+This repo contains the code for the paper Comparing Comparatives (Korat, Omer. Corpus Pragmatics (2018). https://doi.org/10.1007/s41701-018-0042-2). The code contains documentation and references to the appropriate parts of the paper. Data was collected from the Corpus of Contemporary American English (Davies, 2008).
 
 To set up, unzip data.zip and set data.dir to the current working directory.
 
